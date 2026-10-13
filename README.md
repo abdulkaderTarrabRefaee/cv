@@ -4,6 +4,8 @@ Personal CV repository for **Abdulkader Tarrab Refaee** — Senior Software Engi
 
 ## Files
 
+- `Abdulkader_Tarrab_CV_2026.pdf` — **English CV as PDF** ([download](https://github.com/abdulkaderTarrabRefaee/cv/raw/main/Abdulkader_Tarrab_CV_2026.pdf)).
+
 - `Abdulkader_Tarrab_CV_2026.md` — full English CV.
 - `Abdulkader_Tarrab_CV_2026_AR.md` — full Arabic CV.
 - `CV_Abdulkader_Tarrab_DigitalSolutionsLead_AR.md` — focused Arabic CV for digital-solutions / AI-engineering leadership roles.
