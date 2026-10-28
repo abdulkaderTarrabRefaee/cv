@@ -5,7 +5,7 @@
 <h1 align="center">عبد القادر طراب رفاعي</h1>
 <h2 align="center">قائد فريق هندسي · مهندس برمجيات أوّل · AI / Full-Stack / IoT</h2>
 
-<p align="center"><em>أقود الفِرَق الهندسية وأشحن أنظمة Full-Stack بالكامل — من <strong>تطبيقات IoT وتجارب الجوال المتصلة</strong>، مروراً بمنصّات <strong>Flutter / Next.js / Laravel</strong>، وصولاً إلى <strong>خطوط GPT-4 / Claude / Whisper</strong> الإنتاجية لمؤسسات إعلامية بحجم <strong>الجزيرة</strong> و<strong>Middle East Eye</strong>، وبصفتي <strong>شريكاً تقنياً وقائد هندسة الموبايل</strong> في <strong>Kantesti</strong> — منصّة طبية بالذكاء الاصطناعي بـ<strong>2M+ مستخدم في 127 دولة</strong>، شريكة <strong>Microsoft و NVIDIA و Google Cloud</strong>.</em></p>
+<p align="center"><em>أقود الفِرَق الهندسية وأشحن أنظمة Full-Stack بالكامل — من <strong>تطبيقات IoT وتجارب الجوال المتصلة</strong>، مروراً بمنصّات <strong>Flutter / Next.js / Laravel</strong>، وصولاً إلى <strong>خطوط GPT-4 / Claude / Whisper</strong> الإنتاجية لمؤسسات إعلامية بحجم <strong>الجزيرة</strong> و<strong>Middle East Eye</strong>، والتطبيق الرسمي بـ<strong>Flutter</strong> لـ<strong>Kantesti</strong> — منصّة طبية بالذكاء الاصطناعي بـ<strong>2M+ مستخدم في 127 دولة</strong>، شريكة <strong>Microsoft و NVIDIA و Google Cloud</strong> — الذي حقّق <strong>100k+ تحميل خلال شهرين</strong>.</em></p>
 
 <p align="center">
   📍 إسطنبول، تركيا · مرن للعمل عن بُعد &nbsp;|&nbsp;
@@ -32,7 +32,7 @@
 
 شواهد ملموسة:
 - خطوط أنابيب AI/إعلام بمستوى **الجزيرة وMiddle East Eye** (عبر Wisdar Network).
-- **Kantesti** — منصّة طبية بالذكاء الاصطناعي بـ**2M+ مستخدم عبر 127 دولة**، شريكة لـ**Microsoft و NVIDIA و Google Cloud**، حيث أعمل **شريكاً تقنياً وقائد هندسة الموبايل**.
+- **Kantesti** — منصّة طبية بالذكاء الاصطناعي بـ**2M+ مستخدم عبر 127 دولة**، شريكة لـ**Microsoft و NVIDIA و Google Cloud**، والتي بنيتُ لها التطبيق الرسمي بـ**Flutter** (مشروع تعاقدي، 2025) — **100k+ تحميل على Google Play خلال شهرين**.
 - **MWF Metal Detectors** — قيادة الفريق الهندسي خلف خط منتجات IoT صناعي عالمي في إسطنبول.
 - **4 تطبيقات على Google Play**، **50+ موقعاً إنتاجياً**، فريق من **8 + 2** تحت قيادتي.
 
@@ -55,7 +55,7 @@
 - تسليم **40+ منتجاً تجارياً**، **4 تطبيقات على Google Play**، و**50+ موقعاً إنتاجياً** عبر 4 قارات.
 - هندسة منصّات AI/إعلامية تُستخدم لدى **الجزيرة** و**Middle East Eye** (عبر Wisdar Network).
 - **قيادة فريق من 8 مهندسين و2 مصمم** مع Mentoring وCode Review وكتابة RFCs/ADRs.
-- **شريك تقني وقائد هندسة الموبايل** في **Kantesti** ([kantesti.net](https://www.kantesti.net/)) — منصّة طبية بالذكاء الاصطناعي تفسّر **أكثر من 15,000 علامة حيوية** في أقل من 60 ثانية بدقّة **99.84٪**، **2 مليون+ مستخدم في 127 دولة**، **75+ لغة**، متوافقة مع **HIPAA + GDPR**، حاصلة على شهادات ISO، وشريكة لـ**Microsoft و NVIDIA و Google Cloud**. التطبيق المرافق الذي أقوده (`AI Blood Test Analyzer`) حقّق **أكثر من 100,000 تحميل على Google Play خلال شهرين**.
+- **بناء التطبيق الرسمي لـ Kantesti** ([kantesti.net](https://www.kantesti.net/)، مشروع تعاقدي 2025) — منصّة طبية بالذكاء الاصطناعي تفسّر **أكثر من 15,000 علامة حيوية** في أقل من 60 ثانية بدقّة **99.84٪**، **2 مليون+ مستخدم في 127 دولة**، **75+ لغة**، متوافقة مع **HIPAA + GDPR**، حاصلة على شهادات ISO، وشريكة لـ**Microsoft و NVIDIA و Google Cloud**. التطبيق (`AI Blood Test Analyzer`) حقّق **أكثر من 100,000 تحميل على Google Play خلال شهرين**.
 - خبرة في **مسارات حساسة أمنياً**: مدفوعات أونلاين، بيانات طبية/سريرية، Escrow متعدد العملات.
 - ربط عتاد ↔ برمجيات بالكامل: **بروتوكولات BLE مخصّصة** بـchecksum و9 streams متزامنة، **FreeRTOS على STM32**، **Modbus / CAN / RS-485**، **تصميم PCB (KiCAD, Altium, EasyEDA)**.
 - AI إنتاجي: **Whisper للتفريغ النصّي**، **OpenAI GPT-4o + Claude APIs**، **Embeddings + RAG**، **MCP/Agents**، نماذج مفتوحة مستضافة ذاتياً (Ollama / Llama 3 / Mistral / DeepSeek).
@@ -107,7 +107,7 @@
 **2013 – الآن · تركيا / عن بُعد**
 ممارسة مستقلة طويلة الأمد بالتوازي مع الأدوار بدوام كامل، تغطّي Full-Stack وجوال وخطوط إنتاج AI/LLM وأنظمة مدمجة لعملاء في تركيا والخليج وأوروبا وأمريكا الشمالية وجنوب شرق آسيا.
 - **القيادة الهندسية:** قيادة فريق من **8 مهندسي برمجيات + 2 مصمم** على تسليمات متعدّدة المنصّات (Laravel APIs + 3+ تطبيقات Flutter بالتوازي)، مع Code Review وRFCs وArchitecture Decision Records.
-- **شريك تقني وقائد هندسة الموبايل** في **Kantesti** *(حصة Equity صغيرة)* — منصّة طبية بالذكاء الاصطناعي (كولونيا، ألمانيا · لندن، المملكة المتحدة · تأسست 2019)، تفسّر تحاليل الدم عبر **15,000+ علامة حيوية**، **2M+ مستخدم في 127 دولة**، **75+ لغة بما فيها العربية**، متوافقة مع **HIPAA + GDPR**، شريكة لـ**Microsoft / NVIDIA / Google Cloud**. التطبيق المرافق الذي أملك تطويره من الصفر (`AI Blood Test Analyzer`) حقّق **100k+ تحميل على Google Play خلال شهرين** — أكبر نشر موبايل حتى الآن.
+- **تطبيق Kantesti** *(2025 · مشروع تعاقدي)* — بناء التطبيق الرسمي بـFlutter لمنصّة طبية بالذكاء الاصطناعي (كولونيا، ألمانيا · لندن، المملكة المتحدة)، تفسّر تحاليل الدم عبر **15,000+ علامة حيوية**، **2M+ مستخدم في 127 دولة**، **75+ لغة بما فيها العربية**، متوافقة مع **HIPAA + GDPR**، شريكة لـ**Microsoft / NVIDIA / Google Cloud**. التطبيق (`AI Blood Test Analyzer`) حقّق **100k+ تحميل على Google Play خلال شهرين** — أكبر نشر موبايل حتى الآن.
 - بناء **خطوط إنتاج محتوى مدفوعة بـAI/LLM** (Ekteb / video_downloader): تفريغ Whisper، تنسيق GPT-4o + Claude، Embeddings، RAG، Agents بـMCP، Anti-ban scraping بتدوير بروكسي وبصمة متصفّح.
 - نشر **4 تطبيقات على Google Play** (KopKap, Meem Tag, AI Blood Test Analyzer, EDLL Shop) و50+ موقعاً — راجع *تطبيقات منشورة على Google Play* و*معرض WordPress / WooCommerce*.
 
@@ -127,7 +127,7 @@
 |---|---|---|---|
 | **KopKap** — متجر الحيوانات الأليفة (بث مباشر، Escrow، عملات متعدّدة) | [`com.kopkap.app`](https://play.google.com/store/apps/details?id=com.kopkap.app) | المطوّر الرئيسي (موبايل + خلفية) | Flutter · Riverpod · Laravel 11 · Stripe · Agora · Firebase |
 | **Meem Tag** — متجر متعدد البائعين (شبكة Matajiri) | [`com.matajiri.meemtag`](https://play.google.com/store/apps/details?id=com.matajiri.meemtag) | مطوّر التطبيق | Flutter · Laravel Modular · Firebase |
-| **AI Blood Test Analyzer** *(Kantesti · 100k+ تحميل بشهرين · 75+ لغة)* | [`com.aibloodtestanalyzer.app`](https://play.google.com/store/apps/details?id=com.aibloodtestanalyzer.app) | شريك تقني وقائد هندسة الموبايل | Flutter · `flutter_inappwebview` · Dio · واجهة تعريف متعددة اللغات |
+| **AI Blood Test Analyzer** *(Kantesti · 100k+ تحميل بشهرين · 75+ لغة)* | [`com.aibloodtestanalyzer.app`](https://play.google.com/store/apps/details?id=com.aibloodtestanalyzer.app) | مطوّر Flutter (مشروع تعاقدي، 2025) | Flutter · `flutter_inappwebview` · Dio · واجهة تعريف متعددة اللغات |
 | **EDLL Shop** — تطبيق متجر إلكتروني بطرفَي مستخدم وبائع (شبكة Matajiri) | [`com.matajiri.Edllshop`](https://play.google.com/store/apps/details?id=com.matajiri.Edllshop) | مطوّر التطبيق | Flutter · تطبيقَا User & Seller · واجهة Laravel |
 
 > بالإضافة إلى تطبيقات منشورة سابقاً مثل **GplusClinic** للسياحة الطبية (International Clinics, Flutter)، وتطبيق **Maxterm** المرافق لأجهزة الكشف MWF (توزيع خاص للموزّعين).
@@ -238,11 +238,11 @@
 - بروتوكول `X,Y,Z\n` بمعدّل **10 Hz / 9600 baud**.
 - محرّكات DC على L298N، **مهلة أمان 600 مللي ثانية** توقف المحرّكات عند فقد الإشارة.
 
-### 11) Kantesti — منصّة طبية بالذكاء الاصطناعي · *(شريك تقني وقائد هندسة الموبايل · حصة Equity صغيرة)*
+### 11) Kantesti — تطبيق AI Blood Test Analyzer · *(مشروع تعاقدي · 2025 · Flutter)*
 [kantesti.net](https://www.kantesti.net/) · تأسست 2019 · المقر في كولونيا، ألمانيا · مكاتب في لندن، المملكة المتحدة
 التطبيق المرافق **AI Blood Test Analyzer** على [Google Play](https://play.google.com/store/apps/details?id=com.aibloodtestanalyzer.app)
 
-منصّة طبية بالذكاء الاصطناعي تفسّر تحاليل الدم من صورة أو ملف PDF خلال أقل من 60 ثانية — عبر **15,000+ علامة حيوية** بدقة معلَنة **99.84٪**. أعمل فيها **شريكاً تقنياً وقائد هندسة الموبايل** (حصة Equity صغيرة، لستُ مؤسِّساً) — أملك التطبيق المرافق Flutter من الصفر وأساهم في القرارات المعمارية على المستوى الأوسع.
+منصّة طبية بالذكاء الاصطناعي تفسّر تحاليل الدم من صورة أو ملف PDF خلال أقل من 60 ثانية — عبر **15,000+ علامة حيوية** بدقة معلَنة **99.84٪**. في 2025 تعاقدتُ معهم لبناء **التطبيق الرسمي للمنصّة**؛ نطاق عملي كان التطبيق فقط (لا المنصّة ولا الشركة).
 
 **النطاق والمصداقية**
 - **أكثر من 2,000,000 مستخدم** في **127 دولة**.
@@ -257,10 +257,14 @@
 - **تقييم المخاطر الصحية الوراثية** للعائلة.
 - تسعير متدرّج (تقرير مجاني، تقرير فردي ‎~₺267.99، اشتراك سنوي ‎~₺1499 يشمل 12 تقريراً ومميزات متقدّمة)، حلول مؤسسية B2B.
 
-**مساهمتي**
-- **التطبيق المرافق Flutter من الصفر** (`com.aibloodtestanalyzer.app`) — `flutter_inappwebview`، Dio، أذونات دقيقة، واجهة Onboarding متعدّدة اللغات، تخزين آمن، نشر على Google Play / App Store.
-- مساهمة هندسية في منصّة الويب متعدّدة اللغات وتدفّقات **معالجة المدفوعات**.
-- **تدفّقات طبية حسّاسة أمنياً** — خصوصية بالتصميم، تشفير أثناء النقل، تحصين بمستوى المدفوعات، توافق مع HIPAA / GDPR.
+**التطبيق الذي بنيته** (`com.aibloodtestanalyzer.app`، Android + iOS من كود Flutter واحد)
+- **معمارية هجينة**: غلاف Flutter أصلي حول تجربة الويب الخاصة بالمنصّة عبر `flutter_inappwebview`، مع جسر JavaScript ↔ Dart للمصادقة والتنقّل وتمرير الملفات.
+- **رفع التحاليل** كصورة (كاميرا / معرض) أو PDF، مع أذونات تشغيل دقيقة (كاميرا، تخزين، إشعارات) لكل إصدار نظام.
+- **Onboarding متعدّد اللغات** بـ75+ لغة بما فيها العربية مع RTL كامل؛ اكتشاف اللغة وتبديلها داخل التطبيق.
+- **جلسات آمنة**: تخزين مشفّر للتوكنات، مزامنة الجلسة مع منصّة الويب، عميل Dio HTTP.
+- **إشعارات Push** لجاهزية التقارير والتذكيرات.
+- **النشر على المتاجر**: خطوط إصدار Google Play و App Store / TestFlight، التوقيع، إصدارات مرقّمة، مراقبة الأعطال.
+- **خصوصية بالتصميم** متوافقة مع متطلبات HIPAA / GDPR للمنصّة.
 
 ### 12) EdllShop — تطبيقَا متجر *(Flutter · مفتوح)*
 `EdllShopUserApp` و`EdllShopSellerApp`.

@@ -5,7 +5,7 @@
 <h1 align="center">Abdulkader Tarrab Refaee</h1>
 <h2 align="center">Engineering Team Lead · Senior Software Engineer · AI / Full-Stack / IoT</h2>
 
-<p align="center"><em>I lead engineering teams and ship full-stack systems end-to-end — from <strong>connected IoT applications and mobile experiences</strong>, through <strong>Flutter / Next.js / Laravel</strong> platforms, to <strong>GPT-4 / Claude / Whisper AI pipelines</strong> in production for newsrooms used by <strong>Al Jazeera</strong> and <strong>Middle East Eye</strong>, and as <strong>technical partner & lead mobile engineer</strong> at <strong>Kantesti</strong> — an AI medical platform with <strong>2M+ users in 127 countries</strong>, partnered with <strong>Microsoft, NVIDIA and Google Cloud</strong>.</em></p>
+<p align="center"><em>I lead engineering teams and ship full-stack systems end-to-end — from <strong>connected IoT applications and mobile experiences</strong>, through <strong>Flutter / Next.js / Laravel</strong> platforms, to <strong>GPT-4 / Claude / Whisper AI pipelines</strong> in production for newsrooms used by <strong>Al Jazeera</strong> and <strong>Middle East Eye</strong>, and the official <strong>Flutter app for Kantesti</strong> — an AI medical platform with <strong>2M+ users in 127 countries</strong>, partnered with <strong>Microsoft, NVIDIA and Google Cloud</strong> — which reached <strong>100k+ downloads in two months</strong>.</em></p>
 
 <p align="center">
   📍 Istanbul, Turkey · open to remote &nbsp;|&nbsp;
@@ -32,7 +32,7 @@ I am the rare combination of an **engineering team lead**, a **senior software e
 
 Concrete proof:
 - **Al Jazeera- and Middle East Eye-grade** AI media pipelines (via Wisdar Network).
-- **Kantesti** — AI medical platform with **2M+ users across 127 countries**, partner of **Microsoft, NVIDIA and Google Cloud**, where I serve as **technical partner & lead mobile engineer**.
+- **Kantesti** — AI medical platform with **2M+ users across 127 countries**, partner of **Microsoft, NVIDIA and Google Cloud**, for which I built the official **Flutter app** (2025, contract project) — **100k+ Google Play downloads in two months**.
 - **MWF Metal Detectors** — leading the engineering team behind a global industrial-IoT product line in Istanbul.
 - **4 mobile apps live on Google Play**, **50+ websites in production**, an engineering team of **8 + 2** under me.
 
@@ -55,7 +55,7 @@ Master's in **AI & IoT** in progress.
 - **40+ commercial products** delivered; **4 apps live on Google Play**; **50+ websites in production** across 4 continents.
 - Engineering on AI/media platforms used by **Al Jazeera** and **Middle East Eye** (via Wisdar Network).
 - **Led a team of 8 engineers + 2 designers**, mentoring, code review, system design, RFCs/ADRs.
-- **Technical partner & lead mobile engineer** at **Kantesti** ([kantesti.net](https://www.kantesti.net/)) — an AI medical platform interpreting **15,000+ blood biomarkers** in under 60 seconds at **99.84% accuracy**, with **2M+ users across 127 countries**, **75+ languages**, **HIPAA + GDPR compliant**, ISO certified, and partnered with **Microsoft, NVIDIA, and Google Cloud**. The companion Flutter app I lead (`AI Blood Test Analyzer`) hit **100k+ downloads on Google Play in two months**.
+- **Built the official mobile app for Kantesti** ([kantesti.net](https://www.kantesti.net/), 2025 contract project) — an AI medical platform interpreting **15,000+ blood biomarkers** in under 60 seconds at **99.84% accuracy**, with **2M+ users across 127 countries**, **75+ languages**, **HIPAA + GDPR compliant**, ISO certified, and partnered with **Microsoft, NVIDIA, and Google Cloud**. The Flutter app (`AI Blood Test Analyzer`) hit **100k+ downloads on Google Play in two months**.
 - Worked on **security-sensitive workflows**: online payments, medical/clinical data, multi-currency escrow.
 - Deep hardware-software ownership: **custom BLE protocols** with checksum & 9 concurrent streams, **FreeRTOS on STM32**, **Modbus / CAN / RS-485**, **PCB design (KiCAD, Altium, EasyEDA)**.
 - Production AI: **Whisper transcription**, **OpenAI GPT-4o + Claude APIs**, **embeddings + RAG**, **MCP/agents**, **self-hosted Ollama / Llama 3 / Mistral / DeepSeek**.
@@ -107,7 +107,7 @@ Master's in **AI & IoT** in progress.
 **2013 – Present · Turkey / remote**
 A long-running independent practice running in parallel with full-time roles, covering full-stack web, mobile, AI/LLM pipelines and embedded systems for clients across Turkey, the GCC, Europe, North America and South-East Asia.
 - **Engineering leadership:** led a team of **8 software engineers + 2 designers** on multi-app deliveries (Laravel APIs + 3+ Flutter apps in parallel), with code reviews, RFCs and Architecture Decision Records.
-- **Technical partner & lead mobile engineer** at **Kantesti** *(minority equity)* — AI medical platform (Cologne, DE / London, UK · founded 2019) interpreting blood-test results across **15,000+ biomarkers**, **2M+ users in 127 countries**, **75+ languages including Arabic**, **HIPAA + GDPR compliant**, partnered with **Microsoft / NVIDIA / Google Cloud**. The Flutter companion app I own end-to-end (`AI Blood Test Analyzer`) hit **100k+ Google Play downloads in two months** — my largest mobile deployment to date.
+- **Kantesti mobile app** *(2025 · contract project)* — built the official Flutter app for an AI medical platform (Cologne, DE / London, UK) interpreting blood-test results across **15,000+ biomarkers**, **2M+ users in 127 countries**, **75+ languages including Arabic**, **HIPAA + GDPR compliant**, partnered with **Microsoft / NVIDIA / Google Cloud**. The app (`AI Blood Test Analyzer`) hit **100k+ Google Play downloads in two months** — my largest mobile deployment to date.
 - Built **AI/LLM-driven content pipelines** (Ekteb / video_downloader): Whisper transcription, OpenAI + Claude orchestration, embeddings, RAG, MCP-based agents, anti-ban scraping with proxy rotation and browser fingerprinting.
 - Shipped **4 mobile apps live on Google Play** (KopKap, Meem Tag, AI Blood Test Analyzer, EDLL Shop) and 50+ websites — see *Published Mobile Apps* and *Production WordPress & WooCommerce Portfolio*.
 
@@ -127,7 +127,7 @@ A long-running independent practice running in parallel with full-time roles, co
 |---|---|---|---|
 | **KopKap** — Pet marketplace (live streaming, escrow, multi-currency) | [`com.kopkap.app`](https://play.google.com/store/apps/details?id=com.kopkap.app) | Lead developer (mobile + backend) | Flutter · Riverpod · Laravel 11 · Stripe · Agora · Firebase |
 | **Meem Tag** — Multi-vendor marketplace (Matajiri network) | [`com.matajiri.meemtag`](https://play.google.com/store/apps/details?id=com.matajiri.meemtag) | Mobile developer | Flutter · Laravel modular backend · Firebase |
-| **AI Blood Test Analyzer** *(Kantesti · 100k+ downloads in 2 months · 75+ languages)* | [`com.aibloodtestanalyzer.app`](https://play.google.com/store/apps/details?id=com.aibloodtestanalyzer.app) | Technical partner & lead mobile engineer | Flutter · `flutter_inappwebview` · Dio · multilingual onboarding |
+| **AI Blood Test Analyzer** *(Kantesti · 100k+ downloads in 2 months · 75+ languages)* | [`com.aibloodtestanalyzer.app`](https://play.google.com/store/apps/details?id=com.aibloodtestanalyzer.app) | Flutter developer (contract project, 2025) | Flutter · `flutter_inappwebview` · Dio · multilingual onboarding |
 | **EDLL Shop** — Two-sided e-commerce app (Matajiri network) | [`com.matajiri.Edllshop`](https://play.google.com/store/apps/details?id=com.matajiri.Edllshop) | Mobile developer | Flutter · companion User & Seller apps · Laravel API |
 
 > Earlier published apps include the **GplusClinic** medical-tourism app (International Clinics, Flutter) and the **Maxterm** companion app for MWF metal detectors (private distribution to dealers).
@@ -241,11 +241,11 @@ A full handyman/booking marketplace platform: customers book services, providers
 - ASCII protocol `X,Y,Z\n` (steering / speed / reserved) at **10 Hz / 9600 baud**.
 - Differential-drive over **L298N** dual H-bridge; **600 ms safety timeout** kills motors on signal loss.
 
-### 11. Kantesti — AI Medical Platform · *(technical partner & lead mobile engineer · minority equity)*
+### 11. Kantesti — AI Blood Test Analyzer app · *(contract project · 2025 · Flutter)*
 [kantesti.net](https://www.kantesti.net/) · founded 2019 · HQ in Cologne, Germany · offices in London, UK
 Companion app **AI Blood Test Analyzer** on [Google Play](https://play.google.com/store/apps/details?id=com.aibloodtestanalyzer.app)
 
-A globally-deployed AI medical platform that interprets blood-test results from a photo or PDF in under 60 seconds — across **15,000+ biomarkers** at a stated **99.84% accuracy**. I serve as a **technical partner and lead mobile engineer** (minority equity holder, not founder) — owning the Flutter companion app end-to-end and contributing to the broader technical architecture.
+A globally-deployed AI medical platform that interprets blood-test results from a photo or PDF in under 60 seconds — across **15,000+ biomarkers** at a stated **99.84% accuracy**. In 2025 I was contracted to **build the official mobile app**; my scope was the app only (not the platform or the company).
 
 **Scale & credibility**
 - **2,000,000+ users** across **127 countries**.
@@ -260,10 +260,14 @@ A globally-deployed AI medical platform that interprets blood-test results from 
 - Family-level **hereditary health-risk assessment**.
 - Tiered pricing (free single report, paid single report ~₺267.99, annual subscription ~₺1499 for 12 reports + premium features), enterprise/B2B offering.
 
-**My contribution**
-- **Flutter companion app, end-to-end** (`com.aibloodtestanalyzer.app`) — `flutter_inappwebview`, Dio HTTP, fine-grained permissions, multilingual onboarding, secure storage, App Store / Google Play deployment.
-- Engineering input on the multilingual web platform and **payment processing** flows.
-- **Security-sensitive medical workflows** — privacy by design, encrypted transit, payment-grade hardening, alignment with HIPAA / GDPR.
+**The app I built** (`com.aibloodtestanalyzer.app`, Android + iOS from one Flutter codebase)
+- **Hybrid architecture**: native Flutter shell around the platform's web experience via `flutter_inappwebview`, with a JavaScript ↔ Dart bridge for auth, navigation and file hand-off.
+- **Lab-report upload** as photo (camera / gallery) or PDF, with fine-grained runtime permissions (camera, storage, notifications) handled per OS version.
+- **Multilingual onboarding** in 75+ languages including Arabic with full RTL; locale detection and in-app switching.
+- **Secure sessions**: encrypted secure storage for tokens, session sync with the web platform, Dio HTTP client.
+- **Push notifications** for report readiness and reminders.
+- **Store delivery**: Google Play and App Store / TestFlight release pipelines, signing, versioned releases, crash monitoring.
+- **Privacy by design** aligned with the platform's HIPAA / GDPR requirements.
 
 ### 12. EdllShop — User & Seller apps *(Flutter, public)*
 Two-sided e-commerce (`EdllShopUserApp`, `EdllShopSellerApp`) on Flutter.
